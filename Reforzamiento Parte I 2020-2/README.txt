@@ -1,0 +1,2 @@
+Esta ayudantía fue realizada durante Febrero de 2021. Estaba enfocada para los alumnos que estaban cursando
+Fundamentos de Programación durante el segundo semestre de 2020, en preparación a la PEP 3 (Tercera Prueba)
